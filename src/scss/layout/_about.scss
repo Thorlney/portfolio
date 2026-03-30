@@ -48,6 +48,13 @@
             p{
                 margin-top: 20px;
             }
+            .about-enterprise{
+                margin-top: 16px;
+                strong{
+                    color: $gray_900;
+                    font-weight: 600;
+                }
+            }
             .project-document{
                 display: flex;
                 align-items: center;
